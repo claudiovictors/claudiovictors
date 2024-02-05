@@ -1,7 +1,5 @@
 ## Olá eu só o Cláudio Victor 🖐🏼
 
-#### Sempre procurando novas maneiras de usar a tecnologia para fazer a diferença.<br/>
-
 <div> 
   <a href="https://www.youtube.com/@clevcodes" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/claudiovictorbarros?igsh=bGlkbHJ3bXp1bnV1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -26,6 +24,6 @@
   
 </div><br/>
 
-🙃Fala dev 👋🏼Olá! Sou Cláudio Victor, tenho 16 anos e sou apaixonado por programação. Atualmente, estou estudando PHP mysql para me aprimorar minhas habilidades na programação 🫶🏼.
+####🙃Fala dev 👋🏼Olá! Sou Cláudio Victor, tenho 16 anos e sou apaixonado por programação. Atualmente, estou estudando PHP mysql para me aprimorar minhas habilidades na programação 🫶🏼.
 
-💻 Desenvolvedor de software apaixonado por desafios e soluções inovadoras. Focado em programação web e sempre em busca de novas oportunidades de aprendizado e colaboração. Let's code! 🚀
+####💻 Desenvolvedor de software apaixonado por desafios e soluções inovadoras. Focado em programação web e sempre em busca de novas oportunidades de aprendizado e colaboração. Let's code! 🚀
