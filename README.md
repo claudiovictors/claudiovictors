@@ -24,6 +24,6 @@
   
 </div><br/>
 
-####🙃Fala dev 👋🏼Olá! Sou Cláudio Victor, tenho 16 anos e sou apaixonado por programação. Atualmente, estou estudando PHP mysql para me aprimorar minhas habilidades na programação 🫶🏼.
+#### 🙃Fala dev 👋🏼Olá! Sou Cláudio Victor, tenho 16 anos e sou apaixonado por programação. Atualmente, estou estudando PHP mysql para me aprimorar minhas habilidades na programação 🫶🏼.
 
-####💻 Desenvolvedor de software apaixonado por desafios e soluções inovadoras. Focado em programação web e sempre em busca de novas oportunidades de aprendizado e colaboração. Let's code! 🚀
+#### 💻 Desenvolvedor de software apaixonado por desafios e soluções inovadoras. Focado em programação web e sempre em busca de novas oportunidades de aprendizado e colaboração. Let's code! 🚀
