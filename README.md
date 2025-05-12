@@ -45,8 +45,8 @@
 ### ✨ Projetos Destacados
 
 <div align="center">
-  <a href="https://github.com/claudiovictors/projeto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=claudiovictors&repo=(https://github.com/claudiovictors/slenix)&theme=tokyonight&hide_border=true&bg_color=ffffff00&title_color=6E56CF&text_color=444444&icon_color=6E56CF" />
+  <a href="[https://github.com/claudiovictors/https://github.com/claudiovictors/slenix">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=claudiovictors&repo=projeto1&theme=tokyonight&hide_border=true&bg_color=ffffff00&title_color=6E56CF&text_color=444444&icon_color=6E56CF" />
   </a>
   <a href="https://github.com/claudiovictors/projeto2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=claudiovictors&repo=projeto2&theme=tokyonight&hide_border=true&bg_color=ffffff00&title_color=6E56CF&text_color=444444&icon_color=6E56CF" />
