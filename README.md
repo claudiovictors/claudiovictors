@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=120&section=header" width="100%"/>
 
-  # Olá, eu sou Cláudio Victor 👋
+  # Hello, I'm Cláudio Victor 👋
   
-  ### Desenvolvedor Full Stack
+  ### Full Stack Developer
 
-  <p>Transformando ideias em soluções digitais com paixão e criatividade</p>
+  <p>Turning ideas into digital solutions with passion and creativity</p>
   
   <p>
     <a href="https://www.linkedin.com/in/cláudio-victor-710986291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -17,7 +17,7 @@
 
 ---
 
-### 💻 Tecnologias
+### 💻 Technologies
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -42,10 +42,10 @@
 
 ---
 
-### ✨ Projetos Destacados
+### ✨ Featured Projects
 
 <div align="center">
-  <a href="[https://github.com/claudiovictors/https://github.com/claudiovictors/slenix">
+  <a href="https://github.com/claudiovictors/slenix">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=claudiovictors&repo=slenix&theme=tokyonight&hide_border=true&bg_color=ffffff00&title_color=6E56CF&text_color=444444&icon_color=6E56CF" />
   </a>
   <a href="https://github.com/claudiovictors/projeto2">
@@ -56,6 +56,6 @@
 ---
 
 <div align="center">
-  <p>"Código limpo, soluções poderosas"</p>
+  <p>"Clean code, powerful solutions"</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6E56CF&height=120&section=footer" width="100%"/>
 </div>
