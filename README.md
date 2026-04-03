@@ -24,31 +24,18 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35"/>
-<img width="10"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35"/>
-
-</div>
+![PHP](https://img.shields.io/badge/php-1c1f26?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-1c1f26?style=flat&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/python-1c1f26?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-1c1f26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1c1f26?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-1c1f26?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-1c1f26?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-1c1f26?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-1c1f26?style=flat&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-1c1f26?style=flat&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/java-1c1f26?style=flat&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/go-1c1f26?style=flat&logo=go&logoColor=white)
 
 ---
 
@@ -57,6 +44,7 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-1c1f26?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/244931474092)
 [![Instagram](https://img.shields.io/badge/Instagram-1c1f26?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/claudiovictor.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-1c1f26?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/claudiovictors)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1c1f26?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/cl%C3%A1udio-victor-710986291/)
 
 ---
 
@@ -71,6 +59,12 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudiovictors&theme=github_dark" />
 
 </div>
+
+---
+
+## ☕ Gostou? Apoia aí 😄
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1c1f26?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/SEU_USER)
 
 ---
 
