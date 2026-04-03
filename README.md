@@ -54,8 +54,7 @@
 
 | Stats | Linguagens | Produtividade |
 |------|------------|--------------|
-| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudiovictors&theme=github_dark" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claudiovictors&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudiovictors&theme=github_dark" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=claudiovictors&theme=github_dark&utcOffset=1" /> |
+| <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=claudiovictors&theme=github_dark" /> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=claudiovictors&theme=github_dark" /> | <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=claudiovictors&theme=github_dark&utcOffset=1" /> |
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claudiovictors&theme=github_dark" />
 
