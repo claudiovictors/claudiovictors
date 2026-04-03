@@ -24,18 +24,18 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 
-![PHP](https://img.shields.io/badge/php-1c1f26?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-1c1f26?style=flat&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/python-1c1f26?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-1c1f26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1c1f26?style=flat&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-1c1f26?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-1c1f26?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-1c1f26?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-1c1f26?style=flat&logo=linux&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-1c1f26?style=flat&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/java-1c1f26?style=flat&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/go-1c1f26?style=flat&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=flat&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 
 ---
 
@@ -64,7 +64,9 @@
 
 ## ☕ Gostou? Apoia aí 😄
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-1c1f26?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/SEU_USER)
+<a href="https://buymeacoffee.com/claudio.dev" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me A Coffee">
+</a>
 
 ---
 
