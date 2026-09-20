@@ -112,30 +112,25 @@ Currently completing my final year of secondary technical education in Informati
 
 ## 📊 GitHub Stats
 
-### 🏆 GitHub Trophies
+<p align="center">
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=claudiovictors&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=claudiovictors&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=claudiovictors&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=claudiovictors&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-### 💻 Most Used Languages
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiovictors&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📈 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudiovictors&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/claudiovictors/github-readme-stats)
-
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=claudiovictors&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=claudiovictors)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=claudiovictors&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/cláudio-victor-710986291">
+  <a href="https://linkedin.com/in/cl%C3%A1udio-victor-710986291">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/claudiovictors">
